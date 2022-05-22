@@ -17,7 +17,7 @@ For example:
 ```
 cd "C:\Program Files\WindowsPowerShell\Modules"
 rm -rf infinibox-smb
-git clone https://pm:pJnBZqzu3G6qC3MU9UrS@git.infinidat.com/product/infinibox-smb.git
+git clone https://github.com/Infinidat/SLP-module.git
 ```
 
 # Using the Module to manage SMB share-level permissions
