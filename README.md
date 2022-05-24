@@ -57,7 +57,6 @@ PS C:\Users\gnadel> Get-InfiniBoxSharePermissions | Format-Table
 fs              share                principal           sid                                            permission
 --              -----                ---------           ---                                            ----------
 fs1             fs1                  Everyone            S-1-1-0                                        FULLCONTROL
-fs1             fs1                  INFINIDAT\gnadel    S-1-5-21-2133157454-631004845-1810441420-8160  READONLY
 fs1             fs1                  S-1-1-1             S-1-1-1                                        NONE
 fs1             fs1                  ibox3676\1234567890 S-1-5-21-2577287697-2215689574-4278831303-1011 FULLCONTROL
 fs1             fs1                  ibox3676\Guest      S-1-5-21-2577287697-2215689574-4278831303-501  READONLY
