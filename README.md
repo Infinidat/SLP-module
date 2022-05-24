@@ -53,7 +53,7 @@ Get-InfiniBoxSharePermissions | Format-Table
 Sample output:
 
 ```
-PS C:\Users\gnadel> Get-InfiniBoxSharePermissions | Format-Table
+PS C:\Users> Get-InfiniBoxSharePermissions | Format-Table
 fs              share                principal           sid                                            permission
 --              -----                ---------           ---                                            ----------
 fs1             fs1                  Everyone            S-1-1-0                                        FULLCONTROL
