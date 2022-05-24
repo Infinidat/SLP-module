@@ -33,7 +33,7 @@ Connect to the InfiniBox system.
 **Note:** you can add the -IboxPassword parameter to provide the password on the command line.
 
 ```
-Connect-Infinibox -IboxSystem "ibox2812.lab.gdc.il.infinidat.com" -IboxUser "admin"
+Connect-Infinibox -IboxSystem "ibox2812.infinidat.com" -IboxUser "admin"
 ```
 
 ## List the share-level permissions 
